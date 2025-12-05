@@ -1,4 +1,4 @@
-# Physica Models of Living Systems
+# Physical Models of Living Systems
 Repository for exercises and homework in the course *Physical Models of Living Systems* at the University of Padova, A.Y.2025/26.
 
 Currently contains the following exercises:
@@ -10,3 +10,4 @@ Currently contains the following exercises:
 
 **Part II: Neuroscience**
 - **Homework_4.ipynb**: Neuron spike train generation via inhomogenous Poisson process for different firing rate distributions, Avalanche behaviour analysis
+- **Homework 5**: Hopfield networks (code provided by lecturer)
