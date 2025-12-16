@@ -10,4 +10,5 @@ Currently contains the following exercises:
 
 **Part II: Neuroscience**
 - **Homework_4.ipynb**: Neuron spike train generation via inhomogenous Poisson process for different firing rate distributions, Avalanche behaviour analysis
-- **Homework 5**: Hopfield networks (code provided by lecturer)
+- **Homework 5**: Hopfield networks (code provided by lecturer & adjusted)
+  - **hopfield_funcs.py**: helper functions for Homework 5 (based on the code provided by the lecturer)
